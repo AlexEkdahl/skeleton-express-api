@@ -23,6 +23,9 @@ runCommand('git', ['clone', repoURL, name])
     })
   })
   .then(() => {
+    return runCommand('cd', [name])
+  })
+  .then(() => {
     console.log('Done! 🏁')
     console.log('')
     console.log('To get started:')
