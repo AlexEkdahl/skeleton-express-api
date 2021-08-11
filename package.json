@@ -1,6 +1,6 @@
 {
   "name": "skeleton-express-api",
-  "version": "0.0.6",
+  "version": "0.0.9",
   "bin": {
     "skeleton-express-api": "index.js"
   },
