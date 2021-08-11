@@ -1,5 +1,5 @@
 {
-  "name": "skeleton-express-api",
+  "name": "@AlexEkdahl/skeleton-express-api",
   "version": "1.0.0",
   "bin": {
     "skeleton-express-api": "index.js"
