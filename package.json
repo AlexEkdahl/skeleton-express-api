@@ -2,7 +2,7 @@
   "name": "skeleton-express-api",
   "version": "0.0.6",
   "bin": {
-    "create-express-api": "index.js"
+    "skeleton-express-api": "index.js"
   },
   "description": "Simple skeleton for nodejs express api",
   "main": "index.js",
