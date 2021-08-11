@@ -1,6 +1,6 @@
 {
   "name": "skeleton-express-api",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "bin": {
     "create-express-api": "index.js"
   },
@@ -14,6 +14,10 @@
     "NodeJS",
     "ExpressJS"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexEkdahl/skeleton-express-api.git"
+  },
   "author": "AlexEkdahl",
   "license": "MIT"
 }
