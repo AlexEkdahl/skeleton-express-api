@@ -10,7 +10,7 @@ if (!name || name.match(/[<>:"\/\\|?*\x00-\x1F]/)) {
 `)
 }
 
-const repoURL = 'https://github.com/AlexEkdahl/nodejs-server-setup'
+const repoURL = 'https://github.com/AlexEkdahl/nodejs-server-setup.git'
 
 runCommand('git', ['clone', repoURL, name])
   .then(() => {
